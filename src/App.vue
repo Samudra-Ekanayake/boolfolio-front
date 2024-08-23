@@ -44,8 +44,7 @@ export default {
             <div class="card-body">
               <h5 class="card-title">{{ progetto.name }}</h5>
               <p class="card-text">{{ progetto.description }}</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-              
+              <a href="#" class="btn btn-primary">Go somewhere</a>             
             </div>
           </div>
         </div>
